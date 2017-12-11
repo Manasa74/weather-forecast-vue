@@ -1,4 +1,4 @@
-# y
+# Weather forecast
 
 > A Vue.js project
 
